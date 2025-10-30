@@ -1,9 +1,6 @@
--- ===========================================================
 -- Project: HR Employee Attrition Analysis
 -- Description: SQL script for data cleaning and preparation
--- ===========================================================
 
--- Rename column with BOM characters
 USE hr_employee_attrition;
 
 -- Trim extra spaces in text columns
